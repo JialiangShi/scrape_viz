@@ -1,4 +1,4 @@
-# Scrape and WordCloud XD
+# Scrape and WordCloud
 
 The goal of this project is visualizing Pocket Gems employees' background with WordCloud
 
